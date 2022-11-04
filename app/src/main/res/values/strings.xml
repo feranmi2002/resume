@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="greeting">Hi there,</string>
+    <string name="my_name">I am Faith Oluwaoyehun</string>
+    <string name="about_me">I am an enthusiastic Android Developer with 2 years experience eager to continue to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of the Android operating system and training in relevant languages like Java and Kotlin among others. Motivated to learn, grow and excel in the Mobile Technology Industry.</string>
+    <string name="hire_me">Hire me</string>
+    <string name="know_me_more">know me more</string>
+    <string name="job">Android Developer ($600 - $800/mo)</string>
+    <string name="phone_number">08112650294</string>
+    <string name="offer">Hey Faith, I saw your resume and I\'m impressed. I would like to offer you…</string>
+    <string name="whatsapp_unavailable">Whatsapp is not available on this device</string>
+    <string name="email_unavailable">No email app is on this device</string>
+    <string name="email_address">oluwaoyehunferanmi@gmail.com</string>
+    <string name="failed_to_open_link">Failed to open link</string>
+    <string name="linked_in_url">https://www.linkedin.com/in/faith-oluwaoyehun-2900</string>
+    <string name="twitter_url">https://www.twitter.com/oluwaoyehun1</string>
+    <string name="github_url">https://www.github.com/feranmi2002</string>
+    <string name="my_offer">I am willing and eager to offer your company my skills and expertise in Android Development. I am capable of leading a team of developers and organization in order to bring out results in the shortest amonunt of time</string>
+    <string name="my_name_only">Faith Oluwaoyehun</string>
+
+    <string-array name="headers">
+        <item>Skills</item>
+        <item>Experience</item>
+        <item>Projects</item>
+    </string-array>
+
+    <string-array name="skills">
+        <item>Android Studio</item>
+        <item>Android SDK</item>
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>Git</item>
+        <item>Firebase</item>
+    </string-array>
+
+    <string-array name="project_titles">
+        <item>Course Search</item>
+        <item>Artti</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>https://www.play.google.com/store/apps/details?id=com.feranmideveloper.coursesearch</item>
+        <item>https://www.github.com/feranmi2002/Artti</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>I single handed built the app that utilizes the Udemy REST API to make it
+easy to search and explore courses right from the app.
+ Used third-party libraries such as Retrofit and Glide for networking and
+image loading
+ Incorporated offline storage (Room), recommended UI/UX (Material Design)
+and MVVM architecture for seamless use
+ This app was voted 4th best out of over 150 reviewed projects throughout
+Africa during the course</item>
+        <item>Artti is an app I built during NASA Space Apps 2022 Hackathon. It utilizes Artificial Intelligence to create artistic pictures of imaginary space arts</item>
+    </string-array>
+
+    <string-array name="companies">
+        <item>Google Developer Scholarship</item>
+        <item>HNG</item>
+    </string-array>
+
+    <string-array name="company_titles">
+        <item>Android Developer Intern</item>
+        <item>Mobile Developer Intern</item>
+    </string-array>
+
+    <string-array name="whatIDid">
+        <item>A 1 year internship where I learnt Kotlin, went through course in the Advanced Android development while being guided by professional Android Developers who are mentors. At the end of the internship, I built a full-fledged app from start to finish and uploaded to play store. </item>
+        <item>A 3 months internship of intense learning. Still in progress…</item>
+    </string-array>
+
+</resources>
