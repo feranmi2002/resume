@@ -5,17 +5,19 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="#2003DAC5"
-    android:padding="16dp">
+    >
 
     <com.google.android.material.textview.MaterialTextView
         android:id="@+id/title"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
         android:textColor="@color/teal_700"
         android:textSize="18sp"
         android:background="?attr/selectableItemBackgroundBorderless"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/dropdown_menu"
+        android:gravity="start"
+        android:padding="16dp"
         tools:text="Skills" />
 
     <com.google.android.material.imageview.ShapeableImageView
