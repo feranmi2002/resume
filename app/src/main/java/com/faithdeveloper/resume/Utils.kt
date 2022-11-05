@@ -64,7 +64,7 @@ object Utils {
         } else {
             Toast.makeText(
                 this.requireContext(),
-                getString(R.string.email_unavailable),
+               getString(R.string.phone_unavailable),
                 Toast.LENGTH_LONG
             ).show()
         }

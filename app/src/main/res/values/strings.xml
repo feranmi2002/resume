@@ -17,6 +17,7 @@
     <string name="github_url">https://www.github.com/feranmi2002</string>
     <string name="my_offer">I am willing and eager to offer your company my skills and expertise in Android Development. I am capable of leading a team of developers and organization in order to bring out results in the shortest amonunt of time</string>
     <string name="my_name_only">Faith Oluwaoyehun</string>
+    <string name="phone_unavailable">Phone is not available on this device</string>
 
     <string-array name="headers">
         <item>Skills</item>
