@@ -18,7 +18,7 @@ The design was completely made by me. And as mentioned before, follows the Mater
 -	Users able to download my CV right from the app
 -	Full description of my past projects
 
-## Download Resume from
+## Download Resume from [here](https://drive.google.com/file/d/1S8KDdxgeS2IbmAQyh2nuw_34iW8S8zT0/view?usp=sharing)
 
 ## Appetize.io Link:
 
