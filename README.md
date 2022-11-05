@@ -1,4 +1,4 @@
-# Resumse
+# Resume
 ## Resume is a mobile version of my resume. It is an Android app built with Kotlin and the Android SDK. It has many features as follows.
 
 ## Features
