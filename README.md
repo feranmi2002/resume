@@ -13,10 +13,16 @@ Resume follows the MVVM architecture recommended by Google. Follows best practic
 ## UI Design
 The design was completely made by me. And as mentioned before, follows the Material Design Guide Style. It adapts to both landscape and portrait orientations. It also fully supports dark mode
 
+## Libraries
+No external libraries are used. All libraries used are part of the Android SDK
+
 ## Coming Soon: Here are a list of things that  will be added soon
 -	Ability to upload my data remotely by connecting the app to a backend
 -	Users able to download my CV right from the app
 -	Full description of my past projects
+
+## Challenges
+There was no major challenge I faced as I was already familiar with building such an app.
 
 ## Download Resume from [here](https://drive.google.com/file/d/1S8KDdxgeS2IbmAQyh2nuw_34iW8S8zT0/view?usp=sharing)
 
