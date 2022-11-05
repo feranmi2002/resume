@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
-import com.bumptech.glide.Glide
 import com.faithdeveloper.resume.R
 import com.faithdeveloper.resume.Utils.GITHUB
 import com.faithdeveloper.resume.Utils.LINKEDIN
